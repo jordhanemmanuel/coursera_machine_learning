@@ -1,3 +1,7 @@
 .ipynb_checkpoints
 lab_utils*
 data
+plt_logistic_loss.py
+plt_one_addpt_onclick.py
+plt_overfit.py
+plt_quad_logistic.py
